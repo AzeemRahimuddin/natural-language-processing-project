@@ -16,7 +16,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 ## UML Diagram
 
-![Image](https://github.com/user-attachments/assets/cefd6d04-62be-4a3c-8958-67c70ebdb9af)
+![Image](https://github.com/user-attachments/assets/3c85c6ac-0555-408f-aba8-f12df29a0222)
 
 ## Video
 
