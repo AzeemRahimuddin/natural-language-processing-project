@@ -20,7 +20,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 ## Video
 
-https://youtu.be/8wJ_kjRhf6g
+https://github.com/user-attachments/assets/3f2a7597-2561-47cd-a7af-c6a7a421c208
 
 ## Project Description
 
