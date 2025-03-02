@@ -16,9 +16,7 @@ Use your knowledge of object-oriented programming, ArrayLists, the String class,
 
 ## UML Diagram
 
-Put and image of your UML Diagram here. Upload the image of your UML Diagram to your repository, then use the Markdown syntax to insert your image here. Make sure your image file name is one word, otherwise it might not properly get display on this README.
-
-![UML Diagram for my project](nameOfImageFileHere.png)
+![Image](https://github.com/user-attachments/assets/cefd6d04-62be-4a3c-8958-67c70ebdb9af)
 
 ## Video
 
