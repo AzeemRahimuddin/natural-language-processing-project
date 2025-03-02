@@ -34,8 +34,7 @@ Record a short video of your project to display here on your README. You can do 
 
 ## Project Description
 
-Write a description of the goal and/or problem that your application. Include descriptions of what text is being analyzed, either if its text files you are using to interpret text an how the user interacts with your project.
-
+The PasswordChecker application is designed to evaluate the strength of user-generated passwords by analyzing their components and comparing them against common patterns or weaknesses. The goal of the application is to help users improve their password security by identifying common, weak, or easily guessable passwords and suggesting improvements to create a stronger password. It performs an analysis of the password based on several criteria, including the presence of symbols, numbers, uppercase letters, and lowercase letters.
 ## NLP Techniques
 
 Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique.
