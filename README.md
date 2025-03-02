@@ -35,6 +35,7 @@ Record a short video of your project to display here on your README. You can do 
 ## Project Description
 
 The PasswordChecker application is designed to evaluate the strength of user-generated passwords by analyzing their components and comparing them against common patterns or weaknesses. The goal of the application is to help users improve their password security by identifying common, weak, or easily guessable passwords and suggesting improvements to create a stronger password. It performs an analysis of the password based on several criteria, including the presence of symbols, numbers, uppercase letters, and lowercase letters.
+
 ## NLP Techniques
 
-Write a description of what natural lanugage technique (NLP) you implemented in your project. State which methods in your project are associated with this, and a brief explanation of how those methods word and how they are necessary in the NLP technique.
+The PasswordChecker project uses pattern matching and text classification as key NLP techniques. Methods like checkForSymbols, checkForNumbers, checkForUpperCase, and checkForLowerCase identify specific elements in the password by comparing each character against predefined lists (symbols, numbers, uppercase and lowercase letters). confirmPassword classifies the password as either common or uncommon by checking it against a list of frequently used passwords. These techniques are necessary to analyze the password’s strength and suggest improvements for stronger security.
